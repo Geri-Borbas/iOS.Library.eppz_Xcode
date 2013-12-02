@@ -1,5 +1,5 @@
 ## ![eppz!tools](http://www.eppz.eu/beacons/eppz!.png) eppz!xCode
-Keep track of my color xCode color scheme here.
+An xCode color scheme with perceptual meanings behind the colors instead of random picks. Also beautiful / relaxing / pale / pastel colours.
 
 #### Usage
 Simply clone to `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` (create folder if not exist already).
