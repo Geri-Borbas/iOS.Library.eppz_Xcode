@@ -4,7 +4,7 @@
 
 Color are built upon a distinctive set of base colors, applied some slight modifiers to subcategories, topped with some emshasizes added to mark code origins.
 
-![eppz! xCode color scheme design process](https://raw.github.com/eppz/eppz-xCode/master/_design/eppz!xCode_color_scheme_process.gif)
+![eppz! xCode color scheme design process](https://raw.github.com/eppz/eppz-xCode/design/eppz!xCode_color_scheme_process.gif)
 
 Expression categories are distributed along color wheel.
 + Classes, type names are yellowish
@@ -15,9 +15,9 @@ Expression categories are distributed along color wheel.
 Your classes are brighter
 + Framework Class-, method-, variable colors are a bit weakened (35%) to emphasize your code more
 
-![eppz! xCode color scheme preview](https://raw.github.com/eppz/eppz-xCode/master/_design/eppz!xCode_color_scheme_preview.png)
+![eppz! xCode color scheme preview](https://raw.github.com/eppz/eppz-xCode/design/eppz!xCode_color_scheme_preview.png)
 
-Design files are located in `design` branch.
+Design files located in `design` branch.
 
 #### Usage
 Simply clone to `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` (create folder if not exist already), then restart xCode.
