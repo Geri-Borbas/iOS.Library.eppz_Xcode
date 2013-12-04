@@ -8,7 +8,7 @@ Color are built upon a distinctive set of base colors, applied some slight modif
 
 Expression categories are distributed along color wheel.
 + Classes, type names are yellowish
-+ Methods, functions are teal-greenish
++ Methods, functions, macros are teal-greenish
 + Variables, constants are red-orangee
 + Strings, numbers are in blue-cyan
 
