@@ -13,7 +13,7 @@ Expression categories are distributed along color wheel.
 + Strings, numbers are in blue-cyan
 
 Your classes are brighter
-+ Framework Class, method, variable colors are a bit weakened (35%) to emphasize your responsibilities
++ Framework Class-, method-, variable colors are a bit weakened (35%) to emphasize your responsibilities
 
 ![eppz! xCode color scheme preview](https://raw.github.com/eppz/eppz-xCode/master/_design/eppz!xCode_color_scheme_preview.png)
 
