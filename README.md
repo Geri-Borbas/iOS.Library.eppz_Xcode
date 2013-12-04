@@ -3,6 +3,8 @@ Keep track of my color xCode color scheme here.
 
 #### Colors with a sense
 
+Color are built upon a distinctive set of base colors, applied some slight modifiers to subcategories, topped with some emshasizes added to mark code origins.
+
 ![eppz! xCode color scheme design process](https://raw.github.com/eppz/eppz-xCode/master/_design/eppz!xCode_color_scheme_process.gif)
 
 Expression categories are distributed along color wheel.
