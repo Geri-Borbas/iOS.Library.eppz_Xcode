@@ -1,5 +1,4 @@
 ## ![eppz!tools](http://www.eppz.eu/beacons/eppz!.png) eppz!xCode
-Keep track of my color xCode color scheme here.
 
 #### Colors with a sense
 
