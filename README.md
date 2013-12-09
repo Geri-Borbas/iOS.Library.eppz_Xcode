@@ -17,6 +17,15 @@ Your classes are brighter
 
 ![eppz! xCode color scheme preview](https://raw.github.com/eppz/eppz-xCode/design/eppz!xCode_color_scheme_preview.png)
 
+![eppz! xCode color scheme preview](https://raw.github.com/eppz/eppz-xCode/design/_previews/eppz!xCode_color_scheme_declarations.jpg)
+Fenction names, parametes names emphasized against type names.
+
+![eppz! xCode color scheme preview](https://raw.github.com/eppz/eppz-xCode/design/_previews/eppz!xCode_color_scheme_functions.jpg)
+Project functions are brighter than others.
+
+![eppz! xCode color scheme preview](https://raw.github.com/eppz/eppz-xCode/design/_previews/eppz!xCode_color_scheme_strings.jpg)
+Distinctive strings, numbers, characters.
+
 Design files located in `design` branch.
 
 **Donate eppz!xCode** by <a href="https://twitter.com/intent/tweet?text=%23xCode%20color%20scheme%20with%20sense%20https%3A%2F%2Fgithub.com%2Feppz%2Feppz-xCode%20%20%40_eppz%20%23iosdev%20%23code%20%23tool%20%23workflow%20pic.twitter.com%2Fh8HHyfVEAB"><img src="http://eppz.eu/beacons/eppz!_tweet.png" align="absmiddle"></a> this or follow <a href="https://twitter.com/intent/user?original_referer=https%3A%2F%2Ftwitter.com%2Fabout%2Fresources%2Fbuttons&region=following&screen_name=_eppz&tw_p=followbutton&variant=2.0"><img src="http://eppz.eu/beacons/eppz!_follow.png" align="absmiddle"></a>
