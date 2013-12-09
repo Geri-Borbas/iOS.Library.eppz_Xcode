@@ -16,15 +16,7 @@ Your classes are brighter
 + Framework Class-, method-, variable colors are a bit weakened (35%) to emphasize your code more
 
 ![eppz! xCode color scheme preview](https://raw.github.com/eppz/eppz-xCode/design/eppz!xCode_color_scheme_preview.png)
-
 ![eppz! xCode color scheme preview](https://raw.github.com/eppz/eppz-xCode/design/_previews/eppz!xCode_color_scheme_declarations.jpg)
-Fenction names, parametes names emphasized against type names.
-
-![eppz! xCode color scheme preview](https://raw.github.com/eppz/eppz-xCode/design/_previews/eppz!xCode_color_scheme_functions.jpg)
-Project functions are brighter than others.
-
-![eppz! xCode color scheme preview](https://raw.github.com/eppz/eppz-xCode/design/_previews/eppz!xCode_color_scheme_strings.jpg)
-Distinctive strings, numbers, characters.
 
 Design files located in `design` branch.
 
