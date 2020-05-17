@@ -21,7 +21,7 @@ Your classes are brighter
 Design files located in `design` branch.
 
 #### Usage
-Clone to `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` (create folder if not exist already), then restart Xcode. Or simply grab from [Alcatraz](http://alcatraz.io) package manager.
+Clone to `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` (create folder if not exist already), then restart Xcode.
 
 #### License
 > Licensed under the [Open Source MIT license](http://en.wikipedia.org/wiki/MIT_License).
